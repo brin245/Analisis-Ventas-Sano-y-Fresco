@@ -1,5 +1,5 @@
 Aca se encuetra el link del dashboard del proyecto :
-https://utpedupe-my.sharepoint.com/:u:/g/personal/u21206242_utp_edu_pe/IQAP5xZ0sL-kTaZ_phzwruKWAXHhE322Sp4plc7mvoSr0t8?e=C4kxaG
+https://app.powerbi.com/links/uDMepNS3VX?ctid=c4a66c34-2bb7-451f-8be1-b2c26a430158&pbi_source=linkShare&bookmarkGuid=54a29c9b-e6db-40d0-a22e-102a7e9d7500
 
 Aquí se presentan las capturas de los dos dashboards del proyecto , el primero llamado "Dashboard de ventas" cuenta con filtros de tiempo y de producto . Además se aprecia los kpis y la evolución de las ventas durante el periodo de tiempo. Finalmente la tabla complementa mostrando el numero de ventas  por producto respectivo.
 
