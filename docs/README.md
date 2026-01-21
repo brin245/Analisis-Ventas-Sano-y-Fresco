@@ -1,1 +1,2 @@
-
+El primer archivo llamado documento de requerimientos funcionales de negocio cuenta con la logica del negocio empleada para este proyecto viendo temas como el alcance , objetivos , requerimientos funcionales , entre otros . 
+El segundo archivo llamado reglas es el resultado del anterior archivo de python en jupyter para el market basket analytics . Es la fuente de donde se extrae los recursos para el segundo dashboard
